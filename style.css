@@ -1,0 +1,87 @@
+header {
+    
+    background-color: dodgerblue;
+    color: white;
+}
+
+header > h1 {
+    display: inline-block;
+    margin: 50px;
+}
+
+#top_links {
+    margin:15px 15px 15px 500px;
+    display: inline-block;
+}
+
+#top_links > a {
+    color: white;
+    display: inline-block;
+}
+
+#section1 {
+    vertical-align:top;
+    display: inline-block;
+    width:30%;
+}
+
+#aside1 {
+    display:inline-block;
+    width:60%;
+}
+
+#image1 {
+    display: inline-block;
+    width:30%;
+}
+
+#aside-right1 {
+    vertical-align:middle;
+    display: inline-block;
+    width:60%;
+}
+
+#image2 {
+    display: inline-block;
+    width:30%;
+}
+
+#aside-right2 {
+    vertical-align:middle;
+    display: inline-block;
+    width:60%;
+}
+
+#image3 {
+    display: inline-block;
+    width:30%;
+}
+
+#aside-right3 {
+    vertical-align:middle;
+    display: inline-block;
+    width:60%;
+}
+
+main {
+    margin: 50px;
+}
+
+footer {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
+
+textarea {
+    width: 100%;
+}
+
+#first_submit_button {
+    margin-left: 0%;
+}
+
+#second_submit_button {
+    float: right;
+}
